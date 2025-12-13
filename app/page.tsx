@@ -60,9 +60,9 @@ export default function HomePage() {
 
         <div className="mt-20">
           <ul className="flex flex-row w-full gap-6 justify-center">
-            <li className="max-w-[310px] aspect-3/4 rounded-md flex-1">
+            <li className="max-w-[310px] aspect-3/4 flex-1">
               <RevealOnScroll
-                className="block w-full h-full bg-amber-200 px-6 py-14"
+                className="block w-full h-full bg-rose/75 px-6 py-14 rounded-md"
                 threshold={0.2}
                 animation="reveal-up"
               >
@@ -77,9 +77,9 @@ export default function HomePage() {
                 <img src="#" alt="" className="" />
               </RevealOnScroll>
             </li>
-            <li className="max-w-[310px] aspect-3/4 rounded-md translate-y-14 flex-1">
+            <li className="max-w-[310px] aspect-3/4 translate-y-14 flex-1">
               <RevealOnScroll
-                className="block w-full h-full bg-amber-200 px-6 py-14"
+                className="block w-full h-full bg-rose/75 px-6 py-14 rounded-md"
                 threshold={0.2}
                 animation="reveal-up"
                 delay={400}
@@ -94,9 +94,9 @@ export default function HomePage() {
                 <img src="#" alt="" className="" />
               </RevealOnScroll>
             </li>
-            <li className="max-w-[310px] aspect-3/4 rounded-md translate-y-28 flex-1">
+            <li className="max-w-[310px] aspect-3/4 translate-y-28 flex-1">
               <RevealOnScroll
-                className="block w-full h-full bg-amber-200 px-6 py-14"
+                className="block w-full h-full bg-rose/75 px-6 py-14 rounded-md"
                 threshold={0.2}
                 animation="reveal-up"
                 delay={600}
@@ -182,9 +182,9 @@ export default function HomePage() {
         </p>
         <div className="mt-12">
           <ul className="grid grid-cols-2 gap-6">
-            <li className="rounded-lg">
+            <li>
               <RevealOnScroll
-                className="bg-amber-100 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full"
+                className="bg-rose/75 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full rounded-md"
                 threshold={0.5}
                 animation="reveal-up"
               >
@@ -206,9 +206,9 @@ export default function HomePage() {
                 </div>
               </RevealOnScroll>
             </li>
-            <li className="rounded-lg">
+            <li>
               <RevealOnScroll
-                className="bg-amber-100 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full"
+                className="bg-rose/75 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full rounded-md"
                 threshold={0.5}
                 animation="reveal-up"
                 delay={400}
@@ -231,9 +231,9 @@ export default function HomePage() {
                 </div>
               </RevealOnScroll>
             </li>
-            <li className="rounded-lg">
+            <li>
               <RevealOnScroll
-                className="bg-amber-100 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full"
+                className="bg-rose/75 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full rounded-md"
                 threshold={0.5}
                 animation="reveal-up"
                 delay={600}
@@ -256,9 +256,9 @@ export default function HomePage() {
                 </div>
               </RevealOnScroll>
             </li>
-            <li className="rounded-lg">
+            <li>
               <RevealOnScroll
-                className="bg-amber-100 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full"
+                className="bg-rose/75 py-10 pl-8 pr-18 w-full flex flex-row gap-6 h-full rounded-md"
                 threshold={0.5}
                 animation="reveal-up"
                 delay={800}
