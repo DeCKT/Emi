@@ -12,136 +12,136 @@
     "children": [
       {
         "title": "Dashboard",
-        "slug": "for-hosts-dashboard",
+        "slug": "dashboard",
         "markdown": "for-hosts/dashboard.md",
         "children": [
           {
             "title": "Dashboard overview",
-            "slug": "for-hosts-dashboard-overview",
-            "markdown": "for-hosts/dashboard-overview.md",
+            "slug": "overview",
+            "markdown": "for-hosts/dashboard/overview.md",
             "children": []
           },
           {
             "title": "Event statuses",
-            "slug": "for-hosts-event-statuses",
-            "markdown": "for-hosts/event-statuses.md",
+            "slug": "event-statuses",
+            "markdown": "for-hosts/dashboard/event-statuses.md",
             "children": []
           },
           {
             "title": "Managing events",
-            "slug": "for-hosts-managing-events",
-            "markdown": "for-hosts/managing-events.md",
+            "slug": "managing-events",
+            "markdown": "for-hosts/dashboard/managing-events.md",
             "children": []
           },
           {
             "title": "Activity feed",
-            "slug": "for-hosts-activity-feed",
-            "markdown": "for-hosts/activity-feed.md",
+            "slug": "activity-feed",
+            "markdown": "for-hosts/dashboard/activity-feed.md",
             "children": []
           },
           {
             "title": "Notifications center",
-            "slug": "for-hosts-notifications-center",
-            "markdown": "for-hosts/notifications-center.md",
+            "slug": "notifications-center",
+            "markdown": "for-hosts/dashboard/notifications-center.md",
             "children": []
           }
         ]
       },
       {
         "title": "Events",
-        "slug": "for-hosts-events",
+        "slug": "events",
         "markdown": "for-hosts/events.md",
         "children": [
           {
             "title": "Creating a new event",
-            "slug": "for-hosts-events-creating-a-new-event",
-            "markdown": "for-hosts/events-creating-a-new-event.md",
+            "slug": "creating-a-new-event",
+            "markdown": "for-hosts/events/creating-a-new-event.md",
             "children": []
           },
           {
             "title": "Editing existing events",
-            "slug": "for-hosts-events-editing-existing-events",
-            "markdown": "for-hosts/events-editing-existing-events.md",
+            "slug": "editing-existing-events",
+            "markdown": "for-hosts/events/editing-existing-events.md",
             "children": []
           },
           {
             "title": "Advanced event details",
-            "slug": "for-hosts-events-advanced-event-details",
-            "markdown": "for-hosts/events-advanced-event-details.md",
+            "slug": "advanced-event-details",
+            "markdown": "for-hosts/events/advanced-event-details.md",
             "children": []
           },
           {
             "title": "Setting automatic reminders",
-            "slug": "for-hosts-events-setting-automatic-reminders",
-            "markdown": "for-hosts/events-setting-automatic-reminders.md",
+            "slug": "setting-automatic-reminders",
+            "markdown": "for-hosts/events/setting-automatic-reminders.md",
             "children": []
           },
           {
             "title": "Changing event status",
-            "slug": "for-hosts-events-changing-event-status",
-            "markdown": "for-hosts/events-changing-event-status.md",
+            "slug": "changing-event-status",
+            "markdown": "for-hosts/events/changing-event-status.md",
             "children": []
           }
         ]
       },
       {
         "title": "Invitations",
-        "slug": "for-hosts-invitations",
+        "slug": "invitations",
         "markdown": "for-hosts/invitations.md",
         "children": [
           {
             "title": "Creating invitations",
-            "slug": "for-hosts-invitations-creating-invitations",
-            "markdown": "for-hosts/invitations-creating-invitations.md",
+            "slug": "creating-invitations",
+            "markdown": "for-hosts/invitations/creating-invitations.md",
             "children": []
           },
           {
             "title": "Unique invite links",
-            "slug": "for-hosts-invitations-unique-invite-links",
-            "markdown": "for-hosts/invitations-unique-invite-links.md",
+            "slug": "unique-invite-links",
+            "markdown": "for-hosts/invitations/unique-invite-links.md",
             "children": []
           },
           {
             "title": "Sending invite links",
-            "slug": "for-hosts-invitations-sending-invite-links",
-            "markdown": "for-hosts/invitations-sending-invite-links.md",
+            "slug": "sending-invite-links",
+            "markdown": "for-hosts/invitations/sending-invite-links.md",
             "children": []
           },
           {
             "title": "Managing RSVPs",
-            "slug": "for-hosts-invitations-managing-rsvps",
-            "markdown": "for-hosts/invitations-managing-rsvps.md",
+            "slug": "managing-rsvps",
+            "markdown": "for-hosts/invitations/managing-rsvps.md",
             "children": []
           },
           {
             "title": "Getting guests' info",
-            "slug": "for-hosts-invitations-getting-guests-info",
-            "markdown": "for-hosts/invitations-getting-guests-info.md",
+            "slug": "getting-guests-info",
+            "markdown": "for-hosts/invitations/getting-guests-info.md",
             "children": []
           }
         ]
       },
       {
         "title": "Account and Settings",
-        "slug": "for-hosts-account-and-settings",
+        "slug": "account-and-settings",
         "markdown": "for-hosts/account-and-settings.md",
         "children": [
           {
             "title": "Manage your account",
-            "slug": "for-hosts-account-and-settings-manage-your-account",
-            "markdown": "for-hosts/account-and-settings-manage-your-account.md",
+            "slug": "manage-your-account",
+            "markdown": "for-hosts/account-and-settings/manage-your-account.md",
             "children": []
           },
           {
             "title": "Notification preferences",
-            "slug": "for-hosts-account-and-settings-notification-preferences",
-            "markdown": "for-hosts/account-and-settings-notification-preferences.md",
+            "slug": "notification-preferences",
+            "markdown": "for-hosts/account-and-settings/notification-preferences.md",
             "children": []
           },
           {
             "title": "Manage your data",
-            "slug": "for-hosts-account-and-settings-manage-your-data",
-            "markdown": "for-hosts/account-and-settings-manage-your-data.md",
+            "slug": "manage-your-data",
+            "markdown": "for-hosts/account-and-settings/manage-your-data.md",
             "children": []
           }
         ]
@@ -155,63 +155,63 @@
     "children": [
       {
         "title": "Invitations",
-        "slug": "for-invitees-invitations",
+        "slug": "invitations",
         "markdown": "for-invitees/invitations.md",
         "children": [
           {
             "title": "Opening your invitation",
-            "slug": "for-invitees-invitations-opening-your-invitation",
-            "markdown": "for-invitees/invitations-opening-your-invitation.md",
+            "slug": "opening-your-invitation",
+            "markdown": "for-invitees/invitations/opening-your-invitation.md",
             "children": []
           },
           {
             "title": "RSVPing to an event",
-            "slug": "for-invitees-invitations-rsvping-to-an-event",
-            "markdown": "for-invitees/invitations-rsvping-to-an-event.md",
+            "slug": "rsvping-to-an-event",
+            "markdown": "for-invitees/invitations/rsvping-to-an-event.md",
             "children": []
           },
           {
             "title": "Changing your RSVP",
-            "slug": "for-invitees-invitations-changing-your-rsvp",
-            "markdown": "for-invitees/invitations-changing-your-rsvp.md",
+            "slug": "changing-your-rsvp",
+            "markdown": "for-invitees/invitations/changing-your-rsvp.md",
             "children": []
           }
         ]
       },
       {
         "title": "Events",
-        "slug": "for-invitees-events",
+        "slug": "events",
         "markdown": "for-invitees/events.md",
         "children": [
           {
             "title": "Viewing event details",
-            "slug": "for-invitees-events-viewing-event-details",
-            "markdown": "for-invitees/events-viewing-event-details.md",
+            "slug": "viewing-event-details",
+            "markdown": "for-invitees/events/viewing-event-details.md",
             "children": []
           },
           {
             "title": "Updates and reminders",
-            "slug": "for-invitees-events-updates-and-reminders",
-            "markdown": "for-invitees/events-updates-and-reminders.md",
+            "slug": "updates-and-reminders",
+            "markdown": "for-invitees/events/updates-and-reminders.md",
             "children": []
           }
         ]
       },
       {
         "title": "Technical Help",
-        "slug": "for-invitees-technical-help",
+        "slug": "technical-help",
         "markdown": "for-invitees/technical-help.md",
         "children": [
           {
             "title": "My link doesn't work",
-            "slug": "for-invitees-technical-help-my-link-doesnt-work",
-            "markdown": "for-invitees/technical-help-my-link-doesnt-work.md",
+            "slug": "my-link-doesnt-work",
+            "markdown": "for-invitees/technical-help/my-link-doesnt-work.md",
             "children": []
           },
           {
             "title": "I didn't receive an invitation",
-            "slug": "for-invitees-technical-help-i-didnt-receive-an-invitation",
-            "markdown": "for-invitees/technical-help-i-didnt-receive-an-invitation.md",
+            "slug": "i-didnt-receive-an-invitation",
+            "markdown": "for-invitees/technical-help/i-didnt-receive-an-invitation.md",
             "children": []
           }
         ]
